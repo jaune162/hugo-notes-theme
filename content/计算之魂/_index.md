@@ -4,7 +4,7 @@ title: 计算之魂
 linktitle: 计算之魂
 summary: 吴军-计算之魂，学习笔记
 weight: 3
-icon: square-root-alt
+icon: glide-g
 icon_pack: fab
 
 # Page metadata.
