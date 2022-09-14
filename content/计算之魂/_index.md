@@ -1,10 +1,10 @@
 ---
 # Title, summary, and page position.
-title: the_essence_of_computing
+title: 计算之魂
 linktitle: 计算之魂
 summary: 吴军-计算之魂，学习笔记
 weight: 3
-icon: python
+icon: square-root-alt
 icon_pack: fab
 
 # Page metadata.
