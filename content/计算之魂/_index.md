@@ -1,9 +1,9 @@
 ---
 # Title, summary, and page position.
-title: 计算之魂
-linktitle: the_essence_of_computing
+title: the_essence_of_computing
+linktitle: 计算之魂
 summary: 吴军-计算之魂，学习笔记
-weight: 2
+weight: 3
 icon: python
 icon_pack: fab
 
