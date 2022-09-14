@@ -4,7 +4,7 @@ linktitle: max_sub_sequence2
 toc: true
 type: book
 date: '2022-09-14T22:12:00+01:00'
-draft: false
+
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
