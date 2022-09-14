@@ -1,12 +1,11 @@
 ---
-title: Max Sub
+title: Max-Sub
 linktitle: max_sub_sequence2
-toc: true
 type: book
 date: '2022-09-14T22:12:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 ## 问题描述
